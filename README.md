@@ -1,5 +1,5 @@
 - I'm going to leave most of this default for now as I'm still learning.
-- 👋 Hi, I’m @banoargeek!
+- 👋 Hi, I’m Snepdragon!
 - 👀 I’m interested in Gaming, Software Development, and all things Technical!
 - 🌱 I’m currently learning Lua 5.1, Moonscript, C#, and more!
 - 💞️ I’m looking to collaborate on Addon development, maybe more in the future!
