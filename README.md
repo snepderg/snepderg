@@ -1,6 +1,7 @@
 - I'm going to leave most of this default for now as I'm still learning.
 - 👋 Hi, I’m Snepdragon!
 - 👀 I’m interested in Gaming, Software Development, and all things Technical!
+- ✨ This is my personal Github account!
 - 🌱 I’m currently learning Lua 5.1, Moonscript, C#, and more!
 - 💞️ I’m looking to collaborate on Addon development, maybe more in the future!
 - 📫 How to reach me? You can reach me on Discord or Steam! - Snepdragon#3577, https://steamcommunity.com/id/snepdragon/. - Sorry if I don't reply right away, I'm often busy.
