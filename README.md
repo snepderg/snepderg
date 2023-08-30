@@ -1,10 +1,13 @@
-- I'm going to leave most of this default for now as I'm still learning.
-- 👋 Hi, I’m Snepdragon!
+- 👋 Hi, I’m Snepdragon! Welcome to my GitHub!
 - 👀 I’m interested in Gaming, Software Development, and all things Technical!
 - ✨ This is my personal Github account! I also do Student projects.
 - 🌱 I’m currently learning more about the vast world of computer science!
 - 💞️ I’m looking to collaborate on Addon development, maybe more in the future!
-- 📫 How to reach me? You can reach me on Discord or Steam! - @snepderg, https://steamcommunity.com/id/snepderg/. - Sorry if I don't reply right away, I'm often busy.
+- 📫 Wanna contact me? Drop me a message on Discord or Steam!
+- 🎮 Discord: @snepderg
+- 🚋 Steam: https://steamcommunity.com/id/snepderg/
+
+- Error 418: I'm a Teapot.
 
 <!---
 banoargeek/banoargeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
