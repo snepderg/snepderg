@@ -1,24 +1,28 @@
 # 👋 Hi, I’m Snepdragon! Welcome to my GitHub!
 
 ## About Me
-I'm a passionate freelance developer with a strong interest in Gaming, Software Development, and all things Technical! I especially enjoy turning ideas into efficient solutions.
+I'm an aspiring computer science engineer with a passion for game add-on development, software engineering, server management, technical support, and project management.
 
 ## What I Do
-- 💻 I specialize in creating custom software solutions for a variety of needs.
-- 🎮 My love for gaming drives me to explore how technology enhances the gaming experience.
-- 🌐 I'm always excited to delve deeper into the vast world of computer science.
+- 💻 I love to write hobby projects that push me to learn more about computer science and associated topics.
+- 🎮 My love for gaming drives me to explore how the technology behind them works and to discover how I can use it.
+- 🌐 I'm always glad to help when I see someone that needs guidance or feedback on their projects.
 
 ## Projects and Focus
-I also take on student projects, where I combine my knowledge with practical experience to help others learn and grow.
+- Most of my projects stem from learning to code at an early age via environments in Garry's Mod.
+- Many of which are primarily driven by data, and include topics such as sentence analysis, player metrics, and cryptography.
 
 ## Collaboration and Contact
-💞 I’m open to collaboration on Addon development and various other projects.
+- My proudest accomplishment thus far has got to be taking multiple iterations to create a successful emulation of the Enigma M1 and other similar machines from WWII cryptography.
+- While I did not build it with GitHub in mind, I do hope to have it uploaded here fairly soon.
+
+💞 I’m open to collaboration in addon development and various other projects.
 
 📫 **Feel free to contact me here!**
 - Discord: @snepderg
 - Steam: [steamcommunity.com/id/snepderg/](https://steamcommunity.com/id/snepderg/)
 
-🚀 Let's build and innovate together!
+🚀 Let's build cool stuff together!
 
 ❗ **Error 418: I'm a Teapot.**
 
