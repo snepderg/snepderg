@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Snepdragon! Welcome to my GitHub!
+# 👋 Hi, I’m Snepderg! Welcome to my GitHub!
 
 ## About Me
 I'm an aspiring computer science engineer with a passion for game add-on development, software engineering, server management, technical support, and project management.
